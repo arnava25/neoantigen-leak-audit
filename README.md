@@ -1,5 +1,3 @@
-# NeoForge
-
 Leakage controlled re-evaluation of HLA class I neoantigen immunogenicity
 predictors (CD8+, single substitution neoepitopes).
 
