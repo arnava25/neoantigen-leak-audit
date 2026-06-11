@@ -1,0 +1,23 @@
+# third-party tools/repos — clone separately (see README)
+bigmhc/
+ITSNdb/
+MixMHCpred/
+PRIME/
+NeoRanking/
+Classifier_short/
+BigMHCdatasets/
+
+# large / licensed source data — download separately (see README)
+Neopep_data_org.txt
+NEPdb_VND.csv
+data/clean/muller_train.csv
+data/clean/im_train.csv
+
+# paper PDFs (copyright)
+literature/
+
+# cruft
+.DS_Store
+__pycache__/
+*.pyc
+*.x
